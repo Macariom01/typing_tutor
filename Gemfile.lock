@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    colorize (0.7.3)
+    io-console (0.4.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  colorize (~> 0.7.3)
+  io-console (~> 0.4.2)
